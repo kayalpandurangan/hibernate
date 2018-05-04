@@ -7,6 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+kayal
 @Entity
 @Table(name="employee")
 public class EmployeeEntity {
